@@ -11,3 +11,4 @@ Technical section:
 (source: https://lazyfoo.net/SDL_tutorials/lesson29/index.php)
 2. collision detection. Determine when the collisions have happened. 
 (source: https://lazyfoo.net/tutorials/SDL/27_collision_detection/index.php)
+ 
